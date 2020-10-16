@@ -1,0 +1,38 @@
+{
+    "info": {
+        "url_png_icon_64x64": "N/A",
+        "url_png_logo": "N/A",
+        "location": "League City, Texas",
+        "social": {
+            "twitter_handle": "DigitalArkPool",
+            "telegram_handle": "davedigitalarkpool",
+            "facebook_handle": "Digital-Ark-Pool-105870221300962",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Digital Ark",
+            "city": "League City",
+            "country": "United States"
+        },
+        "about": {
+            "me": "Dave",
+            "server": "Digital Ark Pool is a mix of bare-metal and cloud servers to provide low latency and 24/7 uptime.",
+            "mission": "To bring adoption and provide value by creating a one on on educational environment for new investors.",
+            "company": "Digital Ark"
+        },
+        "rss": "http(s) url to valid RSS feed"
+    },
+    "my-pool-ids": {
+        "0": "",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
