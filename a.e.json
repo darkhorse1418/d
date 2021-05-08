@@ -26,7 +26,7 @@
         "rss": "http(s) url to valid RSS feed"
     },
     "my-pool-ids": {
-        "0": "",
+        "0": "bb788f2b96ce42d300c27cf2e3e633b829825ad388476215c818a8b4",
         "1": ""
     },
     "when-satured-then-recommend": {
